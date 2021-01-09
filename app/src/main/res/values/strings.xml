@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Try Info COVID-19</string>
+    <string name="text_update_covid_19">Update Covid-19</string>
+    <string name="text_ayo_lawan_covid_19">Ayo lawan Covid-19</string>
+    <string name="text_di_indonesia_bersama">di Indonesia bersama !</string>
+    <string name="cont_desc">cont_desc</string>
+    <string name="text_indonesia">Indonesia</string>
+    <string name="text_total_kasus">Total Kasus</string>
+    <string name="_8_000">8.000</string>
+    <string name="text_dirawat">Dirawat</string>
+    <string name="text_sembuh">Sembuh</string>
+    <string name="text_meninggal">Meninggal</string>
+    <string name="text_provinsi">Provinsi</string>
+    <string name="text_nama_provinsi">Nama Provinsi</string>
+    <string name="text_positif">Positif</string>
+    <string name="_3130">3130</string>
+    <string name="_529">529</string>
+</resources>
